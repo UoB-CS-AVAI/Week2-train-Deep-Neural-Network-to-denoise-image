@@ -1,1 +1,1 @@
-Please utilize the denoise_any_image.ipynb for further experiments
+Please utilize the lab-dnn-denoise.ipynb for further experiments
